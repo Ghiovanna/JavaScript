@@ -1,2 +1,2 @@
 # JavaScript
-Inicio do curso starter rocketseat
+Inicio curso starter de Javascript da rocketseat.
